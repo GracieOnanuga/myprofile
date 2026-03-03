@@ -1,4 +1,5 @@
 ## Hi there, I'm Gracie Onanuga 👋
+## Nice to meet you
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->

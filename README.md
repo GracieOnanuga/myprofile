@@ -19,9 +19,6 @@ Beyond analytics, I also have experience teaching and tutoring — skills that h
 
 I’m known for my attention to detail, problem-solving mindset, and teamwork. Whether I’m analyzing trends, mentoring students, or learning new tools, I’m driven by curiosity and a genuine desire to make an impact through data. I’m currently expanding my analytics expertise and open to opportunities where I can learn, contribute, and grow.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://gracie-onanuga.github.io/) 
-
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
